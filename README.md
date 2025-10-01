@@ -93,16 +93,6 @@
 
 ---
 
-### Let’s connect
-
-* 📫 **Email**: [hey@yourdomain.com](mailto:hey@yourdomain.com)
-* 💬 **DMs**: [Twitter/X](https://twitter.com/YOUR_TWITTER) or [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-* 🗓️ **Office hours**: book 15 mins: [https://cal.com/YOUR_HANDLE](https://cal.com/YOUR_HANDLE)
-
----
-
-<details>
-<summary>More about me</summary>
 
 * 🌍 Based in City, Country
 * 🎯 2025 focus: performance, reliability, and clear docs
