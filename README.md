@@ -2,11 +2,8 @@
 
 > Senior Software Engineer • Go / Java / JavaScript / Python • AI & Machine Learning • Building reliable backends & delightful DX
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-hey%40yourdomain.com-blue)](mailto:hey@yourdomain.com)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/smilad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/milad-soleymani-966109206/)
 
 ---
 
