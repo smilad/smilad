@@ -1,6 +1,6 @@
 # Hi, I'm **milad** 👋
 
-> Senior Software Engineer • Go / Java / JavaScript / Python • Building reliable backends & delightful DX
+> Senior Software Engineer • Go / Java / JavaScript / Python • AI & Machine Learning • Building reliable backends & delightful DX
 
 [![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](https://github.com/YOUR_GITHUB_USERNAME)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER?style=social)](https://twitter.com/YOUR_TWITTER)
@@ -13,11 +13,12 @@
 ### What I do
 
 * ⚙️ **Backend engineering**: distributed systems, event-driven architectures, and high-throughput APIs
+* 🤖 **AI & Machine Learning**: applied ML, model deployment, MLOps pipelines
 * ☁️ **Cloud & DevOps**: Docker, Kubernetes, IaC, CI/CD, observability
 * 🧠 **Developer Experience**: tooling, CLIs, code quality, test automation
 * 🤝 **Collaboration**: pragmatic reviews, mentoring, documentation-first culture
 
-> **Currently**: designing scalable services with Go + gRPC + Kafka • **Open to** collabs on OSS infra & backend tools
+> **Currently**: designing scalable services with Go + gRPC + Kafka • **Open to** collabs on OSS infra, backend tools, and ML/AI projects
 
 ---
 
@@ -28,6 +29,9 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img alt="gRPC" src="https://img.shields.io/badge/gRPC-5C2D91?logo=grpc&logoColor=white" />
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
@@ -42,28 +46,11 @@
 
 ---
 
-### Featured projects
-
-> Pin the repos below on your profile for quick access.
-
-* **nginx-conf-gen** — Generate clean, production-ready NGINX configs from concise YAML. <br/>
-  *Go • Templates • CI/CD*
-
-* **ruleengine** — Rule-based decision engine with pluggable actions. <br/>
-  *Go • DSL • gRPC*
-
-* **eventic** — Server-Sent Events (SSE) toolkit for Go. <br/>
-  *Go • SSE • Middleware*
-
-> Replace these with **your** real repos; the layout is what matters.
-
----
-
 ### Highlights
 
 * 🏆 OSS contributions to tools around observability & messaging
-* 📚 I write about backend pragmatism and production postmortems
-* 🎙️ Speaker/mentor on testing strategies and API design
+* 📚 I write about backend pragmatism, production postmortems, and applied ML
+* 🎙️ Speaker/mentor on testing strategies, API design, and AI adoption
 * ☕ Fun: single-origin coffee + mechanical keyboards
 
 ---
@@ -72,6 +59,7 @@
 
 * *Title of your post* — platform • date • [link](https://your.blog/post)
 * *Observability without the buzzwords* — meetup • 2025-03 • [slides](https://your-slides.com)
+* *Deploying ML Models at Scale* — conference • 2025-06 • [slides](https://your-slides.com)
 
 ---
 
@@ -92,12 +80,6 @@
 </a>
 
 ---
-
-
-* 🌍 Based in City, Country
-* 🎯 2025 focus: performance, reliability, and clear docs
-* ✅ Certifications: CKA • AWS SAA • Terraform Associate
-* 📎 Resume: [PDF](https://yourdomain.com/resume.pdf)
 
 </details>
 
