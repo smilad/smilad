@@ -50,34 +50,5 @@
 * 🎙️ Speaker/mentor on testing strategies, API design, and AI adoption
 * ☕ Fun: single-origin coffee + mechanical keyboards
 
----
 
-### Recent writing & talks
 
-* *Title of your post* — platform • date • [link](https://your.blog/post)
-* *Observability without the buzzwords* — meetup • 2025-03 • [slides](https://your-slides.com)
-* *Deploying ML Models at Scale* — conference • 2025-06 • [slides](https://your-slides.com)
-
----
-
-### GitHub at a glance
-
-> You can remove any widget you don’t like.
-
-<a href="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_title=true" />
-</a>
-
-<a href="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME">
-  <img align="center" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</a>
-
----
-
-</details>
-
----
